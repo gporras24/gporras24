@@ -10,7 +10,7 @@ I'm currently a third year student of Information Systems Engineering. I have a 
 *   ✉️  You can contact me at [gporras2403@gmail.com](mailto:gporras2403@gmail.com)
 *   🧠  I'm learning Kotlin and C#
 
-### Skills 
+### Languages and tools I've worked with
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
