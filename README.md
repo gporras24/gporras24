@@ -8,7 +8,7 @@ I'm currently a third year student of Information Systems Engineering. I have a 
 *   👩🏽‍💻  My pronouns are she/her
 *   🌍  I'm based in Nicaragua
 *   ✉️  You can contact me at [gporras2403@gmail.com](mailto:gporras2403@gmail.com)
-*   🧠  I'm learning Kotlin and C#
+*   🧠  I'm ....
 
 ### Languages and tools I've worked with
 <p align="left">
