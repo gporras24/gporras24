@@ -8,7 +8,7 @@ I'm currently a third year student of Information Systems Engineering. I have a 
 *   👩🏽‍💻  My pronouns are she/her
 *   🌍  I'm based in Nicaragua
 *   ✉️  You can contact me at [gporras2403@gmail.com](mailto:gporras2403@gmail.com)
-*   🧠  I'm currently working on a web portfolio for one of my friends, check it out with this link <a href= "gporras24.github.io/" </a>
+*   🧠  I'm currently working on a web portfolio for one of my friends, check it out with this link <a href= "gporras24.github.io/"  target="_blank" rel="noreferrer"> </a>
 
 ### Languages and tools I've worked with
 <p align="left">
