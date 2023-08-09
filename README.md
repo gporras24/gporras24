@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Geraldine Porras
 ========================================================================================================================================
 
-Student. Soon to be System Information Engieneer.
+Student. Soon to be Information Systems Engieneer.
 -------------------------------------
 
 I'm currently a third year student of Information Systems Engineering. I have a great passion for learning new things and developing my technical skills.
